@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning more about Web Development (MERN Stack)
 - 📫 How to reach me: [Linkedin - @PavanSeshaSai](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/)
 - 😄 Pronouns: He/His
-
+- ⚡ Java,Python + Data Structures & Algorithms
 
  
  <h3 align="left">Languages and Tools:</h3>
