@@ -21,11 +21,11 @@
 - 📫 How to reach me: [Linkedin - @PavanSeshaSai](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/)
 - 😄 Pronouns: He/His
 
- ● Programming Languages: Java, Python, C <br>
- ● Web Technologies: HTML, CSS, PHP, Bootstrap <br>
- ● Tools: Visual Studio, Git, Github, Linux, Windows <br>
- ● Databases: MySQL <br>
- ● Soft Skills: Confident Communicator and Strategic thinker <br>
+ - Programming Languages: Java, Python, C <br>
+ - Web Technologies: HTML, CSS, PHP, Bootstrap <br>
+ - Tools: Visual Studio, Git, Github, Linux, Windows <br>
+ - Databases: MySQL <br>
+ - Soft Skills: Confident Communicator and Strategic thinker <br>
 
 
 
