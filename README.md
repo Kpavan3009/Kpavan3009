@@ -1,6 +1,5 @@
 ## Hola, I'm [Pavan Sesha Sai!]((https://kpavan3009.github.io/mamba/index.html#home)) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=&color=blue&style=plastic" alt="pavanseshasai" /> </p>
 
 
 <a href="[https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/)/">
