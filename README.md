@@ -2,8 +2,8 @@
 
 
 
-<a href="[https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/)/">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="[https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/)/">
+  <img align="left" alt="Pavan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Kpavan3009">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
