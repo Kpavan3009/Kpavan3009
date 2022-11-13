@@ -16,7 +16,7 @@
 
 
 
-- 🔭 Hi, I’m Pavan Sesha Sai. I am currently pursuing my bachelor’s degree in the ECE branch from IIIT Nagpur. I love to dive into technology and apply it      to the real world through various projects.
+- 🔭 I am a passionate full stack developer and a final year undergrad at IIIT Nagpur
 - 🌱 I’m currently learning more about Full Stack Web Development (MERN Stack)
 - 📫 How to reach me: [Linkedin - @PavanSeshaSai](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/) / kpavan3009@gmail.com
 - 😄 Pronouns: He/His
