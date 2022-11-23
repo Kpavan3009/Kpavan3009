@@ -16,7 +16,7 @@
 
 
 - 🔭 I am a passionate full stack developer and a final year undergrad at IIIT Nagpur
-- 🌱 I’m currently learning more about Full Stack Web Development (MERN Stack)
+- 🌱 I’m currently learning more about DevOps , ReactJS , Machine Learning , Data Science.
 - 📫 How to reach me: [Linkedin - @PavanSeshaSai](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/) / kpavan3009@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Java,Python + Data Structures & Algorithms
