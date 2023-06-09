@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning more about Machine Learning , Data Science.
 - 📫 How to reach me: [Linkedin - @PavanSeshaSai](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/) / pavanseshasaik@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Java,Python + Data Structures & Algorithms
+- ⚡  DS,Algo 
 
  
  <h3 align="left">Languages and Tools:</h3>
