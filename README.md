@@ -15,8 +15,8 @@
 
 
 
-- 🔭 I am a passionate full stack developer and a final year undergrad at IIIT Nagpur
-- 🌱 I’m currently learning more about Machine Learning , Data Science.
+- 🔭 I am a passionate full stack dev 
+- 🌱 I’m currently learning more about Machine Learning , Data Science
 - 📫 How to reach me: [Linkedin - @PavanSeshaSai](https://www.linkedin.com/in/pavan-sesha-sai-kasukurti-bb36691a0/) / pavanseshasaik@gmail.com
 - 😄 Pronouns: He/His
 - ⚡  DS,Algo 
