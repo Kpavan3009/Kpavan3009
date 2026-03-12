@@ -19,7 +19,6 @@
 pavan = {
     "name"        : "Pavan Sesha Sai Kasukurti",
     "role"        : "Software Engineer @ Sutherland",
-    "location"    : "Clifton, NJ 📍",
     "education"   : ["MS Computer Science – CSU Chico", "B.Tech ECE – IIIT Nagpur"],
     "status"      : "🟢 Open to New Opportunities",
     "experience"  : "3+ years (Sutherland + Concentrix)",
