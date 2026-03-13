@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pavan%20Sesha%20Sai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%2FAI%20%7C%20Full%20Stack%20%7C%20SRE&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Sutherland+%F0%9F%9A%80;ML+%2F+AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Sutherland+%F0%9F%9A%80;ML+%2F+AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;NeetCode+150+%E2%80%94+All+150+Solved+%E2%9C%85;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpavan3009)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://kpavan3009.github.io)
@@ -24,9 +24,41 @@ pavan = {
     "experience"  : "3+ years (Sutherland + Concentrix)",
     "expertise"   : ["ML Systems", "Full Stack", "Cloud/DevOps", "SRE"],
     "certifications": ["AWS Solutions Architect (SAA-C03)", "ServiceNow CSA"],
+    "dsa"         : "NeetCode 150 — All 150 problems solved ✅",
     "fun_fact"    : "I ship to prod multiple times a week with zero-downtime rollouts 🚀",
 }
 ```
+
+---
+
+## 🧠 Data Structures & Algorithms — NeetCode 150 Complete
+
+<div align="center">
+
+![Solved](https://img.shields.io/badge/LeetCode%20Problems%20Solved-150%20%2F%20150-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Patterns](https://img.shields.io/badge/Patterns%20Covered-18%20Categories-purple?style=for-the-badge)
+![Style](https://img.shields.io/badge/Style-Interview%20Ready-orange?style=for-the-badge)
+
+**[→ View all 150 solutions with full explanations](https://github.com/Kpavan3009/neetcode-150)**
+
+</div>
+
+Completed the full **NeetCode 150** problem set — every solution written in interview style with clarifying questions, pseudocode, optimized code, and complexity analysis.
+
+| Category | Problems | Category | Problems |
+|----------|:--------:|----------|:--------:|
+| ✅ Arrays & Hashing | 9 | ✅ Backtracking | 9 |
+| ✅ Two Pointers | 5 | ✅ Graphs | 13 |
+| ✅ Sliding Window | 6 | ✅ Advanced Graphs | 6 |
+| ✅ Stack | 7 | ✅ 1D Dynamic Programming | 12 |
+| ✅ Binary Search | 7 | ✅ 2D Dynamic Programming | 11 |
+| ✅ Linked List | 11 | ✅ Greedy | 8 |
+| ✅ Trees | 15 | ✅ Intervals | 6 |
+| ✅ Tries | 3 | ✅ Math & Geometry | 8 |
+| ✅ Heap / Priority Queue | 7 | ✅ Bit Manipulation | 7 |
+
+> Each solution covers: **Clarifying Questions → Pseudocode → Optimized Python → Time & Space Complexity**
 
 ---
 
@@ -108,6 +140,7 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🧠 [NeetCode 150](https://github.com/Kpavan3009/neetcode-150) | All 150 LeetCode problems — interview-style with pseudocode & complexity analysis | Python |
 | 🎯 [Path Finding Visualiser](https://github.com/Kpavan3009/Path-Finding-Visualiser) | Interactive BFS, DFS, Dijkstra & A* algorithm visualization | JavaScript |
 | 😴 [Drowsiness Detection](https://github.com/Kpavan3009/Drowsiness-Detection) | Real-time driver drowsiness detection using deep learning | Python, OpenCV |
 | 😊 [Facial Expression Recognition](https://github.com/Kpavan3009/facial-expression-recognition-using-cnn) | CNN-based emotion recognition from live camera | Python, TensorFlow |
