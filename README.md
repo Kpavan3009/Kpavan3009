@@ -2,36 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pavan%20Sesha%20Sai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%2FAI%20%7C%20Full%20Stack%20%7C%20SRE&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Sutherland+%F0%9F%9A%80;ML+%2F+AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;NeetCode+150+%E2%80%94+All+150+Solved+%E2%9C%85;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Sutherland;ML+%2F+AI+Engineer;Full+Stack+Developer;AWS+Certified+Solutions+Architect;NeetCode+150+—+All+150+Solved;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpavan3009)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://kpavan3009.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanssk3009@gmail.com)
-[![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-certifications)
+[![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#certifications)
 
 </div>
 
----
-
-## 👨‍💻 About Me
+## About Me
 
 ```python
 pavan = {
     "name"        : "Pavan Sesha Sai Kasukurti",
     "role"        : "Software Engineer @ Sutherland",
     "education"   : ["MS Computer Science – CSU Chico", "B.Tech ECE – IIIT Nagpur"],
-    "status"      : "🟢 Open to New Opportunities",
+    "status"      : "Open to New Opportunities",
     "experience"  : "3+ years (Sutherland + Concentrix)",
     "expertise"   : ["ML Systems", "Full Stack", "Cloud/DevOps", "SRE"],
     "certifications": ["AWS Solutions Architect (SAA-C03)", "ServiceNow CSA"],
-    "dsa"         : "NeetCode 150 — All 150 problems solved ✅",
-    "fun_fact"    : "I ship to prod multiple times a week with zero-downtime rollouts 🚀",
+    "dsa"         : "NeetCode 150 — All 150 problems solved",
+    "fun_fact"    : "I ship to prod multiple times a week with zero-downtime rollouts",
 }
 ```
 
----
-
-## 🧠 Data Structures & Algorithms — NeetCode 150 Complete
+## Data Structures and Algorithms — NeetCode 150 Complete
 
 <div align="center">
 
@@ -40,33 +36,31 @@ pavan = {
 ![Patterns](https://img.shields.io/badge/Patterns%20Covered-18%20Categories-purple?style=for-the-badge)
 ![Style](https://img.shields.io/badge/Style-Interview%20Ready-orange?style=for-the-badge)
 
-**[→ View all 150 solutions with full explanations](https://github.com/Kpavan3009/neetcode-150)**
+**[View all 150 solutions with full explanations](https://github.com/Kpavan3009/neetcode-150)**
 
 </div>
 
-Completed the full **NeetCode 150** problem set — every solution written in interview style with clarifying questions, pseudocode, optimized code, and complexity analysis.
+Completed the full NeetCode 150 problem set. Every solution is written in interview style with clarifying questions, pseudocode, optimized code, and complexity analysis.
 
 | Category | Problems | Category | Problems |
 |----------|:--------:|----------|:--------:|
-| ✅ Arrays & Hashing | 9 | ✅ Backtracking | 9 |
-| ✅ Two Pointers | 5 | ✅ Graphs | 13 |
-| ✅ Sliding Window | 6 | ✅ Advanced Graphs | 6 |
-| ✅ Stack | 7 | ✅ 1D Dynamic Programming | 12 |
-| ✅ Binary Search | 7 | ✅ 2D Dynamic Programming | 11 |
-| ✅ Linked List | 11 | ✅ Greedy | 8 |
-| ✅ Trees | 15 | ✅ Intervals | 6 |
-| ✅ Tries | 3 | ✅ Math & Geometry | 8 |
-| ✅ Heap / Priority Queue | 7 | ✅ Bit Manipulation | 7 |
+| Arrays & Hashing | 9 | Backtracking | 9 |
+| Two Pointers | 5 | Graphs | 13 |
+| Sliding Window | 6 | Advanced Graphs | 6 |
+| Stack | 7 | 1D Dynamic Programming | 12 |
+| Binary Search | 7 | 2D Dynamic Programming | 11 |
+| Linked List | 11 | Greedy | 8 |
+| Trees | 15 | Intervals | 6 |
+| Tries | 3 | Math & Geometry | 8 |
+| Heap / Priority Queue | 7 | Bit Manipulation | 7 |
 
-> Each solution covers: **Clarifying Questions → Pseudocode → Optimized Python → Time & Space Complexity**
+Each solution covers: Clarifying Questions, Pseudocode, Optimized Python, Time and Space Complexity.
 
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🌟 Flagship Projects
+### Flagship Projects
 
 </div>
 
@@ -74,9 +68,9 @@ Completed the full **NeetCode 150** problem set — every solution written in in
 <tr>
 <td width="33%" align="center">
 
-### 🤖 [AI Research Agent](https://github.com/Kpavan3009/ai-research-agent)
+### [AI Research Agent](https://github.com/Kpavan3009/ai-research-agent)
 
-Autonomous multi-agent AI system that generates complete research reports from natural language queries
+Autonomous multi-agent AI system that generates complete research reports from natural language queries.
 
 **95% task success rate** | ~90s report generation
 
@@ -85,17 +79,17 @@ Autonomous multi-agent AI system that generates complete research reports from n
 ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- 🔍 Real-time web search (Grok API)
-- 📚 RAG over 50K-doc Pinecone index
-- 🐍 Sandboxed Python REPL execution
-- 📝 Auto-generated cited reports
+- Real-time web search via Grok API
+- RAG over 50K-doc Pinecone index
+- Sandboxed Python REPL execution
+- Auto-generated cited reports
 
 </td>
 <td width="33%" align="center">
 
-### 🎬 [Scalable Video Platform](https://github.com/Kpavan3009/scalable-video-platform)
+### [Scalable Video Platform](https://github.com/Kpavan3009/scalable-video-platform)
 
-Full-stack video sharing platform — AWS S3 + CloudFront CDN reduced load times by **40%**
+Full-stack video sharing platform. AWS S3 and CloudFront CDN reduced load times by **40%**.
 
 **Direct S3 upload** | **JWT auth** | **Docker**
 
@@ -104,17 +98,17 @@ Full-stack video sharing platform — AWS S3 + CloudFront CDN reduced load times
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_S3%2FCF-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-- 📹 Presigned S3 upload (up to 5GB)
-- ⚡ CloudFront CDN global edge cache
-- 🔐 Dual-token JWT with rotation
-- 🔍 MongoDB full-text search
+- Presigned S3 upload (up to 5GB)
+- CloudFront CDN global edge cache
+- Dual-token JWT with rotation
+- MongoDB full-text search
 
 </td>
 <td width="33%" align="center">
 
-### 📊 [COVID-19 Demand Prediction](https://github.com/Kpavan3009/covid19-demand-prediction)
+### [COVID-19 Demand Prediction](https://github.com/Kpavan3009/covid19-demand-prediction)
 
-Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forecasting
+Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forecasting.
 
 **92% accuracy** | **10GB+ dataset** | **Spark**
 
@@ -123,10 +117,10 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- 🔥 PySpark distributed processing
-- 📈 Linear Reg / RF / XGBoost benchmark
-- 🦠 COVID phase & mobility features
-- 🏨 Rolling window lag features
+- PySpark distributed processing
+- Linear Reg / RF / XGBoost benchmark
+- COVID phase and mobility features
+- Rolling window lag features
 
 </td>
 </tr>
@@ -140,18 +134,16 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 [NeetCode 150](https://github.com/Kpavan3009/neetcode-150) | All 150 LeetCode problems — interview-style with pseudocode & complexity analysis | Python |
-| 🎯 [Path Finding Visualiser](https://github.com/Kpavan3009/Path-Finding-Visualiser) | Interactive BFS, DFS, Dijkstra & A* algorithm visualization | JavaScript |
-| 😴 [Drowsiness Detection](https://github.com/Kpavan3009/Drowsiness-Detection) | Real-time driver drowsiness detection using deep learning | Python, OpenCV |
-| 😊 [Facial Expression Recognition](https://github.com/Kpavan3009/facial-expression-recognition-using-cnn) | CNN-based emotion recognition from live camera | Python, TensorFlow |
-| 🌾 [Crop Recommendation System](https://github.com/Kpavan3009/Crop-Recommendation) | ML model for optimal crop selection based on soil & climate | Python, scikit-learn |
-| 📌 [Inspire Boards](https://github.com/Kpavan3009/inspire-boards) | Pinterest-style inspiration board mobile app | Flutter, Dart |
+| [NeetCode 150](https://github.com/Kpavan3009/neetcode-150) | All 150 LeetCode problems — interview-style with pseudocode and complexity analysis | Python |
+| [Path Finding Visualiser](https://github.com/Kpavan3009/Path-Finding-Visualiser) | Interactive BFS, DFS, Dijkstra and A* algorithm visualization | JavaScript |
+| [Drowsiness Detection](https://github.com/Kpavan3009/Drowsiness-Detection) | Real-time driver drowsiness detection using deep learning | Python, OpenCV |
+| [Facial Expression Recognition](https://github.com/Kpavan3009/facial-expression-recognition-using-cnn) | CNN-based emotion recognition from live camera | Python, TensorFlow |
+| [Crop Recommendation System](https://github.com/Kpavan3009/Crop-Recommendation) | ML model for optimal crop selection based on soil and climate | Python, scikit-learn |
+| [Inspire Boards](https://github.com/Kpavan3009/inspire-boards) | Pinterest-style inspiration board mobile app | Flutter, Dart |
 
 </div>
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -164,7 +156,7 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend & Backend**
+**Frontend and Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -172,7 +164,7 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**AI / ML**
+**AI and ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -192,7 +184,7 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-**Cloud & DevOps**
+**Cloud and DevOps**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -200,7 +192,7 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Monitoring & Observability**
+**Monitoring and Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
@@ -208,9 +200,7 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 
 </div>
 
----
-
-## 🏆 Certifications
+## Certifications
 
 <div align="center">
 
@@ -220,9 +210,7 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 
 </div>
 
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -237,13 +225,11 @@ Big data ML pipeline — 10GB+ hotel data via Apache Spark, XGBoost demand forec
 
 </div>
 
----
-
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
+### Let's Connect
 
-*Currently open to Software Engineer, ML Engineer, Full Stack, and SRE roles*
+Currently open to Software Engineer, ML Engineer, Full Stack, and SRE roles.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpavan3009)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanssk3009@gmail.com)
