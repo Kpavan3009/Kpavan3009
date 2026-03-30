@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%2F+ML+Systems+Engineer;Backend+%26+Data+Platform+Engineer;Real-Time+Inference+%7C+Data+Pipelines;AWS+Certified+Solutions+Architect;Always+building%2C+always+shipping)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanseshasai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpavan3009)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://kpavan3009.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanssk3009@gmail.com)
 [![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#certifications)
@@ -231,7 +231,7 @@ Autonomous multi-agent system generating complete research reports from natural 
 
 Open to Software Engineer, Machine Learning Engineer, Backend Engineer, AI Engineer, and Data Platform Engineer roles.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanseshasai)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpavan3009)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanssk3009@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kpavan3009&color=667eea&style=for-the-badge&label=Profile+Views)
