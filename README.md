@@ -11,36 +11,6 @@
 
 </div>
 
-## At a Glance
-
-```
-Name        Pavan Sesha Sai Kasukurti
-Role        Software Engineer
-Focus       ML Systems | Backend Platforms | Data Pipelines | Distributed Infra
-Education   MS CS (CSU Chico) | B.Tech ECE (IIIT Nagpur)
-Certs       AWS Solutions Architect (SAA-C03) | Claude AI Architect (Anthropic)
-Status      Open to work
-```
-
-## What I Do
-
-```
-User Question / Business Need
-        |
-        v
-+------------------+     +-------------------+     +------------------+
-|  ML Pipeline     | --> |  Backend / API    | --> |  Cloud Infra     |
-|  XGBoost,        |     |  FastAPI,         |     |  AWS, Docker,    |
-|  LightGBM,       |     |  Spring Boot,     |     |  K8s, Terraform, |
-|  NLP, RAG        |     |  Node.js, Redis   |     |  CI/CD           |
-+------------------+     +-------------------+     +------------------+
-        |                         |                         |
-        v                         v                         v
-+---------------------------------------------------------------+
-|                   Production System                           |
-|  Real-time inference | Event-driven pipelines | Monitoring    |
-+---------------------------------------------------------------+
-```
 
 ## Flagship Projects
 
